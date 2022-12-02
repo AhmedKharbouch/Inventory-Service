@@ -1,5 +1,5 @@
 # **Inventory Service**
-## gestion patient first commit
+## Inventory Service first commit
 
 ### Dependencies
 - Actuator
